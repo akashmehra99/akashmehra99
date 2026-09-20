@@ -190,7 +190,7 @@
 </p>
 
 <p align="center">
-  <sub>🔄 This README updates automatically via GitHub Actions • Last updated: <span id="date"></span></sub>
+  <sub>🔄 This README updates automatically via GitHub Actions • Last updated: September 20, 2026
 </p>
 
 <script>
