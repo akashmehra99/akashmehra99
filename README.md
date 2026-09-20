@@ -128,41 +128,14 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashmehra99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmehra99&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=320" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashmehra99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmehra99&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmehra99&theme=tokyonight&hide_border=true&stroke=00D4AA&background=1F222E&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akashmehra99&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmehra99&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akashmehra99&theme=tokyonight&hide_border=true" alt="WakaTime Stats" height="180"/>
 </p>
-
-<details>
-<summary><b>🔧 Troubleshooting: Stats not loading?</b></summary>
-<br>
-
-| Issue | Solution |
-|---|---|
-| **Stats show "Not Found"** | Profile must be public with commits. Private repos need `count_private=true` (already set). |
-| **WakaTime empty** | Connect <a href="https://wakatime.com">WakaTime</a> to your IDE, ensure username matches `akashmehra99`. |
-| **Streak shows 0** | Needs recent commits. Streak counts consecutive days with ≥1 commit. |
-| **Images blocked** | Some networks block `vercel.app`/`herokuapp.com`. Try VPN or wait for cache refresh. |
-| **Rate limited** | Services allow ~1000 req/hr. Wait a few minutes or use GitHub Action to generate static SVGs. |
-
-**Alternative: Self-hosted stats** (more reliable, no rate limits)
-- <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — GitHub Action generates SVG badges (configured in `.github/workflows/metrics.yml`)
-- <a href="https://github.com/creativecodeco/gitcard-studio">gitcard-studio</a> — Visual card builder + API
-- <a href="https://github.com/starlash7/github-candles">github-candles</a> — Contribution candlestick charts
-
-</details>
-
-### 📊 Self-Hosted Metrics (GitHub Action)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akashmehra99/akashmehra99/main/metrics.svg" alt="GitHub Metrics" width="90%"/>
-</p>
-
-<sub>Generated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> • Includes: contribution calendar, language analysis, habit charts, star history, notable contributions</sub>
 
 ---
 
