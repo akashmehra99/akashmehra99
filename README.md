@@ -184,7 +184,7 @@
 </p>
 
 <p align="center">
-  <sub>🔄 This README updates automatically via GitHub Actions • Last updated: November 17, 2026
+  <sub>🔄 This README updates automatically via GitHub Actions • Last updated: November 18, 2026
 </p>
 
 <script>
